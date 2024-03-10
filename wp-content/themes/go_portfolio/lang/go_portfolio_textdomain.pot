@@ -1,0 +1,2779 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Go Portfolio - WordPress Responsive Portfolio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-05 13:38+0000\n"
+"POT-Revision-Date: Mon Feb 15 2016 10:53:46 GMT+0100 (Közép-európai téli idő "
+")\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Granth <granthweb@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: class_go_portfolio.php:546
+#, php-format
+msgid ""
+"Go Portfolio - WordPress Responsive Portfolio  plugin has been updated! "
+"Current version: %1$s"
+msgstr ""
+
+#: class_go_portfolio.php:552
+#, php-format
+msgid ""
+"Please read <a href=\"%1$s\" target=\"_blank\">this</a> the plugin update "
+"information carefully!"
+msgstr ""
+
+#: class_go_portfolio.php:584 class_go_portfolio.php:585
+#: class_go_portfolio.php:595 class_go_portfolio.php:605
+#: class_go_portfolio.php:615 class_go_portfolio.php:625
+#: includes/menu_page.php:277 includes/menu_page.php:296
+#: includes/submenu_page_ctps.php:199 includes/submenu_page_editor.php:243
+#: includes/submenu_page_general_settings.php:73
+#: includes/submenu_page_import_export.php:262
+#: includes/vc/class_vc_extend.php:65
+msgid "Go Portfolio"
+msgstr ""
+
+#: class_go_portfolio.php:595 class_go_portfolio.php:596
+#: includes/menu_page.php:548
+msgid "Custom Post Types"
+msgstr ""
+
+#: class_go_portfolio.php:605 class_go_portfolio.php:606
+#: includes/menu_page.php:1288 includes/menu_page.php:1322
+#: includes/menu_page.php:1356 includes/menu_page.php:1390
+msgid "General Settings"
+msgstr ""
+
+#: class_go_portfolio.php:615 class_go_portfolio.php:616
+#: includes/menu_page.php:1161 includes/menu_page.php:1209
+#: includes/submenu_page_editor.php:297
+msgid "Template & Style Editor"
+msgstr ""
+
+#: class_go_portfolio.php:625 class_go_portfolio.php:626
+msgid "Import & Export"
+msgstr ""
+
+#: class_go_portfolio.php:868 class_go_portfolio.php:1933
+msgid "Oops, authorized persons only!"
+msgstr ""
+
+#: class_go_portfolio.php:920 includes/menu_page.php:619
+msgid "Add New"
+msgstr ""
+
+#: class_go_portfolio.php:921
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: class_go_portfolio.php:922
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: class_go_portfolio.php:923
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: class_go_portfolio.php:924
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: class_go_portfolio.php:925
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: class_go_portfolio.php:926
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: class_go_portfolio.php:927
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: class_go_portfolio.php:928
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: class_go_portfolio.php:944 class_go_portfolio.php:1054
+#, php-format
+msgid "%s Categories"
+msgstr ""
+
+#: class_go_portfolio.php:945 class_go_portfolio.php:954
+#: class_go_portfolio.php:1055 class_go_portfolio.php:1064
+#, php-format
+msgid "%s Category"
+msgstr ""
+
+#: class_go_portfolio.php:946 class_go_portfolio.php:1056
+#, php-format
+msgid "Search %s Categories"
+msgstr ""
+
+#: class_go_portfolio.php:947 class_go_portfolio.php:1057
+#, php-format
+msgid "All %s Categories"
+msgstr ""
+
+#: class_go_portfolio.php:948 class_go_portfolio.php:1058
+#, php-format
+msgid "Parent %s Category"
+msgstr ""
+
+#: class_go_portfolio.php:949 class_go_portfolio.php:1059
+#, php-format
+msgid "Parent %s Category:"
+msgstr ""
+
+#: class_go_portfolio.php:950 class_go_portfolio.php:1060
+#, php-format
+msgid "Edit %s Category"
+msgstr ""
+
+#: class_go_portfolio.php:951 class_go_portfolio.php:1061
+#, php-format
+msgid "Update %s Category"
+msgstr ""
+
+#: class_go_portfolio.php:952 class_go_portfolio.php:1062
+#, php-format
+msgid "Add New %s Category"
+msgstr ""
+
+#: class_go_portfolio.php:953 class_go_portfolio.php:1063
+#, php-format
+msgid "New %s Category Name"
+msgstr ""
+
+#: class_go_portfolio.php:966 class_go_portfolio.php:1076
+#, php-format
+msgid "%s Tags"
+msgstr ""
+
+#: class_go_portfolio.php:967 class_go_portfolio.php:976
+#: class_go_portfolio.php:1077 class_go_portfolio.php:1086
+#, php-format
+msgid "%s Tag"
+msgstr ""
+
+#: class_go_portfolio.php:968 class_go_portfolio.php:1078
+#, php-format
+msgid "Search %s Tags"
+msgstr ""
+
+#: class_go_portfolio.php:969 class_go_portfolio.php:1079
+#, php-format
+msgid "All %s Tags"
+msgstr ""
+
+#: class_go_portfolio.php:970 class_go_portfolio.php:1080
+#, php-format
+msgid "Parent %s Tag"
+msgstr ""
+
+#: class_go_portfolio.php:971 class_go_portfolio.php:1081
+#, php-format
+msgid "Parent %s Tag:"
+msgstr ""
+
+#: class_go_portfolio.php:972 class_go_portfolio.php:1082
+#, php-format
+msgid "Edit %s Tag"
+msgstr ""
+
+#: class_go_portfolio.php:973 class_go_portfolio.php:1083
+#, php-format
+msgid "Update %s Tag"
+msgstr ""
+
+#: class_go_portfolio.php:974 class_go_portfolio.php:1084
+#, php-format
+msgid "Add New %s Tag"
+msgstr ""
+
+#: class_go_portfolio.php:975 class_go_portfolio.php:1085
+#, php-format
+msgid "New %s Tag Name"
+msgstr ""
+
+#: class_go_portfolio.php:1054 class_go_portfolio.php:1055
+#: class_go_portfolio.php:1056 class_go_portfolio.php:1057
+#: class_go_portfolio.php:1058 class_go_portfolio.php:1059
+#: class_go_portfolio.php:1060 class_go_portfolio.php:1061
+#: class_go_portfolio.php:1062 class_go_portfolio.php:1063
+#: class_go_portfolio.php:1064 class_go_portfolio.php:1076
+#: class_go_portfolio.php:1077 class_go_portfolio.php:1078
+#: class_go_portfolio.php:1079 class_go_portfolio.php:1080
+#: class_go_portfolio.php:1081 class_go_portfolio.php:1082
+#: class_go_portfolio.php:1083 class_go_portfolio.php:1084
+#: class_go_portfolio.php:1085 class_go_portfolio.php:1086
+msgid "Media"
+msgstr ""
+
+#: class_go_portfolio.php:1131
+msgid "Title"
+msgstr ""
+
+#: class_go_portfolio.php:1132
+msgid "Featured Image"
+msgstr ""
+
+#: class_go_portfolio.php:1133 includes/submenu_page_general_settings.php:122
+msgid "Author"
+msgstr ""
+
+#: class_go_portfolio.php:1134
+msgid "Description"
+msgstr ""
+
+#: class_go_portfolio.php:1135
+msgid "Categories"
+msgstr ""
+
+#: class_go_portfolio.php:1136
+msgid "Tags"
+msgstr ""
+
+#: class_go_portfolio.php:1137
+msgid "Other Taxonomies"
+msgstr ""
+
+#: class_go_portfolio.php:1138
+msgid "Date"
+msgstr ""
+
+#: class_go_portfolio.php:1314
+msgid "Thumbnail type"
+msgstr ""
+
+#: class_go_portfolio.php:1317
+msgid "Select thumbnail type."
+msgstr ""
+
+#: class_go_portfolio.php:1319 class_go_portfolio.php:1603
+msgid "Image"
+msgstr ""
+
+#: class_go_portfolio.php:1320 class_go_portfolio.php:1604
+msgid "Video"
+msgstr ""
+
+#: class_go_portfolio.php:1321 class_go_portfolio.php:1605
+msgid "Audio"
+msgstr ""
+
+#: class_go_portfolio.php:1329
+msgid "Thumbnail image"
+msgstr ""
+
+#: class_go_portfolio.php:1332
+msgid ""
+"Source of the Thumbnail image if you would like to set different image from "
+"the thumbnail image."
+msgstr ""
+
+#: class_go_portfolio.php:1340
+msgid "Video thumbnail type"
+msgstr ""
+
+#: class_go_portfolio.php:1343 class_go_portfolio.php:1631
+msgid "Select video type."
+msgstr ""
+
+#: class_go_portfolio.php:1345 class_go_portfolio.php:1633
+msgid "Youtube video"
+msgstr ""
+
+#: class_go_portfolio.php:1346 class_go_portfolio.php:1634
+msgid "Vimeo video"
+msgstr ""
+
+#: class_go_portfolio.php:1347 class_go_portfolio.php:1635
+msgid "Screenr video"
+msgstr ""
+
+#: class_go_portfolio.php:1348 class_go_portfolio.php:1636
+msgid "Dailymotion video"
+msgstr ""
+
+#: class_go_portfolio.php:1349 class_go_portfolio.php:1637
+msgid "Metacafe video"
+msgstr ""
+
+#: class_go_portfolio.php:1359
+msgid "Audio thumbnail type"
+msgstr ""
+
+#: class_go_portfolio.php:1362 class_go_portfolio.php:1650
+msgid "Select audio type."
+msgstr ""
+
+#: class_go_portfolio.php:1364 class_go_portfolio.php:1652
+msgid "Soundcloud audio"
+msgstr ""
+
+#: class_go_portfolio.php:1365 class_go_portfolio.php:1653
+msgid "Mixcloud audio"
+msgstr ""
+
+#: class_go_portfolio.php:1366 class_go_portfolio.php:1654
+msgid "Beatport audio"
+msgstr ""
+
+#: class_go_portfolio.php:1376 class_go_portfolio.php:1664
+msgid "Youtube video ID"
+msgstr ""
+
+#: class_go_portfolio.php:1379 class_go_portfolio.php:1409
+#: class_go_portfolio.php:1441 class_go_portfolio.php:1463
+#: class_go_portfolio.php:1485 class_go_portfolio.php:1667
+#: class_go_portfolio.php:1688 class_go_portfolio.php:1710
+#: class_go_portfolio.php:1722 class_go_portfolio.php:1734
+msgid "ID of the video."
+msgstr ""
+
+#: class_go_portfolio.php:1394 class_go_portfolio.php:1416
+#: class_go_portfolio.php:1448 class_go_portfolio.php:1470
+#: class_go_portfolio.php:1492 class_go_portfolio.php:1514
+#: class_go_portfolio.php:1546 class_go_portfolio.php:1578
+#: class_go_portfolio.php:1824
+msgid "Height"
+msgstr ""
+
+#: class_go_portfolio.php:1397 class_go_portfolio.php:1419
+#: class_go_portfolio.php:1451 class_go_portfolio.php:1473
+#: class_go_portfolio.php:1495
+msgid "Height of the video (optional)."
+msgstr ""
+
+#: class_go_portfolio.php:1406 class_go_portfolio.php:1685
+msgid "Vimeo video ID"
+msgstr ""
+
+#: class_go_portfolio.php:1426 class_go_portfolio.php:1524
+#: class_go_portfolio.php:1556 class_go_portfolio.php:1695
+#: class_go_portfolio.php:1753 class_go_portfolio.php:1775
+msgid "Color"
+msgstr ""
+
+#: class_go_portfolio.php:1429 class_go_portfolio.php:1698
+msgid "Vimeo control colors (if the video allows)."
+msgstr ""
+
+#: class_go_portfolio.php:1438 class_go_portfolio.php:1707
+msgid "Screenr video ID"
+msgstr ""
+
+#: class_go_portfolio.php:1460 class_go_portfolio.php:1719
+msgid "Dailymotion video ID"
+msgstr ""
+
+#: class_go_portfolio.php:1482 class_go_portfolio.php:1731
+msgid "Metacafe video ID"
+msgstr ""
+
+#: class_go_portfolio.php:1504 class_go_portfolio.php:1743
+msgid "Soundcloud track ID"
+msgstr ""
+
+#: class_go_portfolio.php:1507 class_go_portfolio.php:1571
+#: class_go_portfolio.php:1746 class_go_portfolio.php:1790
+msgid "Track ID of the audio."
+msgstr ""
+
+#: class_go_portfolio.php:1517 class_go_portfolio.php:1549
+#: class_go_portfolio.php:1581
+msgid "Height of the audio (optional)."
+msgstr ""
+
+#: class_go_portfolio.php:1527 class_go_portfolio.php:1559
+#: class_go_portfolio.php:1756 class_go_portfolio.php:1778
+msgid "Color of the player."
+msgstr ""
+
+#: class_go_portfolio.php:1536 class_go_portfolio.php:1765
+msgid "Mixcloud track URL"
+msgstr ""
+
+#: class_go_portfolio.php:1539 class_go_portfolio.php:1768
+msgid "URL of the audio."
+msgstr ""
+
+#: class_go_portfolio.php:1568 class_go_portfolio.php:1787
+msgid "Beatport track ID"
+msgstr ""
+
+#: class_go_portfolio.php:1590
+msgid "Hide overlay?"
+msgstr ""
+
+#: class_go_portfolio.php:1592
+msgid "Whether to hide overlay."
+msgstr ""
+
+#: class_go_portfolio.php:1598
+msgid "Lighbox type"
+msgstr ""
+
+#: class_go_portfolio.php:1601
+msgid "Select lighbox type."
+msgstr ""
+
+#: class_go_portfolio.php:1606
+msgid "Other"
+msgstr ""
+
+#: class_go_portfolio.php:1616
+msgid "Lightbox image"
+msgstr ""
+
+#: class_go_portfolio.php:1619
+msgid ""
+"Source of the lightbox image if you would like to set different image from "
+"the thumbnail image."
+msgstr ""
+
+#: class_go_portfolio.php:1628
+msgid "Video lightbox type"
+msgstr ""
+
+#: class_go_portfolio.php:1647
+msgid "Audio lightbox type"
+msgstr ""
+
+#: class_go_portfolio.php:1799
+msgid "Other lightbox type"
+msgstr ""
+
+#: class_go_portfolio.php:1802
+msgid "Select type."
+msgstr ""
+
+#: class_go_portfolio.php:1804
+msgid "Custom iframe"
+msgstr ""
+
+#: class_go_portfolio.php:1814
+msgid "URL"
+msgstr ""
+
+#: class_go_portfolio.php:1817
+msgid "Site URL."
+msgstr ""
+
+#: class_go_portfolio.php:1827
+msgid "Iframe height (optional)."
+msgstr ""
+
+#: class_go_portfolio.php:1836
+msgid "Hide lightbox button on overlay?"
+msgstr ""
+
+#: class_go_portfolio.php:1838
+msgid "Whether to hide the lightbox button or circle on overlay."
+msgstr ""
+
+#: class_go_portfolio.php:1844
+msgid "Hide read more button on overlay?"
+msgstr ""
+
+#: class_go_portfolio.php:1846
+msgid "Whether to hide the read more button or circle on overlay."
+msgstr ""
+
+#: class_go_portfolio.php:1852
+msgid "Custom post link"
+msgstr ""
+
+#: class_go_portfolio.php:1855
+msgid "Whether to replace the default links which redirect to the post."
+msgstr ""
+
+#: class_go_portfolio.php:1860
+msgid "Open link in new window?"
+msgstr ""
+
+#: class_go_portfolio.php:1862
+msgid "Whether to open the link in new window."
+msgstr ""
+
+#: class_go_portfolio.php:1868
+msgid "Go Portfolio Options"
+msgstr ""
+
+#: class_go_portfolio.php:1983
+msgid "You must set a portfolio id."
+msgstr ""
+
+#: class_go_portfolio.php:2178
+msgid "The template is missing."
+msgstr ""
+
+#: class_go_portfolio.php:2228
+msgid "Previous"
+msgstr ""
+
+#: class_go_portfolio.php:2229 includes/submenu_page_import_export.php:267
+#: includes/submenu_page_import_export.php:271
+#: includes/submenu_page_import_export.php:380
+#: includes/submenu_page_import_export.php:463
+msgid "Next"
+msgstr ""
+
+#: class_go_portfolio.php:2346 class_go_portfolio.php:2360
+#: class_go_portfolio.php:2362 class_go_portfolio.php:2408
+msgid "Show more"
+msgstr ""
+
+#: class_go_portfolio.php:3023
+msgid "SALE"
+msgstr ""
+
+#: class_go_portfolio.php:3143
+#, php-format
+msgid "Post type with a slug of \"%s\" is not registered."
+msgstr ""
+
+#: class_go_portfolio.php:3150
+#, php-format
+msgid "Portfolio with an id of \"%s\" is not defined."
+msgstr ""
+
+#: includes/class_gw_metabox.php:201 includes/class_gw_metabox.php:204
+#: includes/class_gw_metabox.php:211 includes/class_gw_metabox.php:214
+#: includes/class_gw_metabox.php:216
+msgid "Upload"
+msgstr ""
+
+#: includes/class_gw_metabox.php:227
+msgid "Update"
+msgstr ""
+
+#: includes/menu_page.php:83
+msgid "The Portfolio has been successfully cloned."
+msgstr ""
+
+#: includes/menu_page.php:106
+msgid "The Portfolio been successfully deleted."
+msgstr ""
+
+#: includes/menu_page.php:133
+msgid "Portfolio name is empty!"
+msgstr ""
+
+#: includes/menu_page.php:138
+msgid "Portfolio name already exists!"
+msgstr ""
+
+#: includes/menu_page.php:146
+msgid "Portfolio ID is empty!"
+msgstr ""
+
+#: includes/menu_page.php:151
+msgid "Portfolio ID already exists!"
+msgstr ""
+
+#: includes/menu_page.php:159
+msgid "You didn't select post ype for portfolio!"
+msgstr ""
+
+#: includes/menu_page.php:174
+msgid "The selected post type is not registered!"
+msgstr ""
+
+#: includes/menu_page.php:198
+msgid "Template data is missing!"
+msgstr ""
+
+#: includes/menu_page.php:217
+msgid "Style data is missing!"
+msgstr ""
+
+#: includes/menu_page.php:235
+#, php-format
+msgid ""
+"Portfolio has been successfully updated.<br>Your shortcode is:</strong><br>"
+"[go_portfolio id=\"%1$s\"]"
+msgstr ""
+
+#: includes/menu_page.php:270
+msgid ""
+"Oops, AJAX error! If you keep getting this message, please enable \"Disable "
+"AJAX in admin?\" option under General Settings plugin page. "
+msgstr ""
+
+#: includes/menu_page.php:274 includes/submenu_page_ctps.php:196
+#: includes/submenu_page_editor.php:240
+#: includes/submenu_page_general_settings.php:70
+#: includes/submenu_page_import_export.php:259
+msgid "Hey, just a sec!"
+msgstr ""
+
+#: includes/menu_page.php:282 includes/menu_page.php:393
+#: includes/submenu_page_ctps.php:204 includes/submenu_page_ctps.php:298
+msgid "++ Create"
+msgstr ""
+
+#: includes/menu_page.php:287 includes/menu_page.php:481
+#: includes/menu_page.php:809 includes/menu_page.php:944
+#: includes/menu_page.php:1095 includes/menu_page.php:1233
+#: includes/menu_page.php:1897 includes/submenu_page_ctps.php:208
+#: includes/submenu_page_ctps.php:434 includes/submenu_page_editor.php:254
+#: includes/submenu_page_editor.php:423
+#: includes/submenu_page_general_settings.php:75
+#: includes/submenu_page_general_settings.php:135
+#: includes/submenu_page_general_settings.php:324
+#: includes/submenu_page_general_settings.php:378
+msgid "Save"
+msgstr ""
+
+#: includes/menu_page.php:288 includes/menu_page.php:482
+#: includes/menu_page.php:482 includes/menu_page.php:810
+#: includes/menu_page.php:810 includes/menu_page.php:945
+#: includes/menu_page.php:945 includes/menu_page.php:1096
+#: includes/menu_page.php:1096 includes/menu_page.php:1234
+#: includes/menu_page.php:1234 includes/menu_page.php:1898
+#: includes/menu_page.php:1898
+msgid "Go to Dashboard"
+msgstr ""
+
+#: includes/menu_page.php:341
+msgid "Dashboard"
+msgstr ""
+
+#: includes/menu_page.php:356 includes/submenu_page_ctps.php:265
+#, php-format
+msgid "#%s"
+msgstr ""
+
+#: includes/menu_page.php:365 includes/submenu_page_ctps.php:270
+#: includes/submenu_page_editor.php:248 includes/submenu_page_editor.php:336
+msgid "Edit"
+msgstr ""
+
+#: includes/menu_page.php:366 includes/menu_page.php:367
+#: includes/submenu_page_ctps.php:271 includes/submenu_page_ctps.php:272
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/menu_page.php:366 includes/submenu_page_ctps.php:271
+msgid "Clone"
+msgstr ""
+
+#: includes/menu_page.php:367 includes/submenu_page_ctps.php:272
+msgid "Delete"
+msgstr ""
+
+#: includes/menu_page.php:378 includes/submenu_page_ctps.php:283
+msgid "Let's get started!"
+msgstr ""
+
+#: includes/menu_page.php:379
+msgid ""
+"Create a new portfolio from Scratch or Import existing ones from our demos"
+msgstr ""
+
+#: includes/menu_page.php:424
+msgid "Portfolio doesn't exist!"
+msgstr ""
+
+#: includes/menu_page.php:424 includes/menu_page.php:562
+#: includes/menu_page.php:563 includes/submenu_page_ctps.php:329
+#: includes/submenu_page_editor.php:359 includes/submenu_page_editor.php:373
+#: includes/submenu_page_import_export.php:401
+#: includes/submenu_page_import_export.php:537
+msgid "Click here"
+msgstr ""
+
+#: includes/menu_page.php:424
+msgid "to create new portfolio."
+msgstr ""
+
+#: includes/menu_page.php:443
+msgid "Basic Settings"
+msgstr ""
+
+#: includes/menu_page.php:443
+msgid "Name, ID and Post Type"
+msgstr ""
+
+#: includes/menu_page.php:449
+msgid "Portfolio Name"
+msgstr ""
+
+#: includes/menu_page.php:451
+msgid "Name for the portfolio, used for identification in admin area only."
+msgstr ""
+
+#: includes/menu_page.php:454
+msgid "Portfolio ID"
+msgstr ""
+
+#: includes/menu_page.php:457
+msgid ""
+"Unique ID, used in shortcodes. <strong>Important:</strong> Only lowercase "
+"letters, numbers, hyphens and underscores."
+msgstr ""
+
+#: includes/menu_page.php:458
+msgid ""
+"E.g. if the ID is \"my_portfolio\" the shortcode will be <strong>"
+"[go_portfolio id=\"my_portfolio\"]</strong>."
+msgstr ""
+
+#: includes/menu_page.php:469
+msgid "Shortcode"
+msgstr ""
+
+#: includes/menu_page.php:471
+msgid "Shortcode of the current portfolio. Paste it into any post or page."
+msgstr ""
+
+#: includes/menu_page.php:489
+msgid "Query Settings"
+msgstr ""
+
+#: includes/menu_page.php:489
+msgid "Post Selection Criterias"
+msgstr ""
+
+#: includes/menu_page.php:497
+msgid "Post Type for Portfolio"
+msgstr ""
+
+#: includes/menu_page.php:511
+msgid "No Portfolios Found"
+msgstr ""
+
+#: includes/menu_page.php:561
+msgid "Select a post type or custom post type for the portfolio."
+msgstr ""
+
+#: includes/menu_page.php:562
+#, php-format
+msgid "%1$s to create a new custom post type."
+msgstr ""
+
+#: includes/menu_page.php:563
+#, php-format
+msgid ""
+"%1$s to enable the portfolio with default post types or other (not plugin "
+"defined) custom post types."
+msgstr ""
+
+#: includes/menu_page.php:567 includes/menu_page.php:576
+msgid "Query Builder"
+msgstr ""
+
+#: includes/menu_page.php:570
+msgid "Manual builder"
+msgstr ""
+
+#: includes/menu_page.php:573
+msgid "Select query building method of the posts."
+msgstr ""
+
+#: includes/menu_page.php:579
+msgid "Visual Builder"
+msgstr ""
+
+#: includes/menu_page.php:580
+msgid "Manual Builder"
+msgstr ""
+
+#: includes/menu_page.php:583
+msgid ""
+"Select query building method of the posts.  <strong>Important: </strong> You "
+"can select posts by parameters (manual method) or with a visual builder."
+msgstr ""
+
+#: includes/menu_page.php:593
+msgid "Gallery"
+msgstr ""
+
+#: includes/menu_page.php:620
+msgid "Delete Selected"
+msgstr ""
+
+#: includes/menu_page.php:621
+msgid "Delete All"
+msgstr ""
+
+#: includes/menu_page.php:622
+msgid "<strong>Tip:</strong> You can use SHIFT or CRTL to select item range."
+msgstr ""
+
+#: includes/menu_page.php:628
+msgid "Order"
+msgstr ""
+
+#: includes/menu_page.php:631
+msgid "Asccending Order"
+msgstr ""
+
+#: includes/menu_page.php:632
+msgid "Descending Order"
+msgstr ""
+
+#: includes/menu_page.php:635
+msgid ""
+"Ascending order from lowest to highest values (1, 2, 3; a, b, c) or "
+"descending order from highest to lowest values."
+msgstr ""
+
+#: includes/menu_page.php:638 includes/menu_page.php:773
+msgid "Order Parameter"
+msgstr ""
+
+#: includes/menu_page.php:641
+msgid "Default Order"
+msgstr ""
+
+#: includes/menu_page.php:642
+msgid "Order by ID"
+msgstr ""
+
+#: includes/menu_page.php:643
+msgid "Order by Date"
+msgstr ""
+
+#: includes/menu_page.php:644
+msgid "Order by Author"
+msgstr ""
+
+#: includes/menu_page.php:645
+msgid "Order by Title"
+msgstr ""
+
+#: includes/menu_page.php:646
+msgid "Order by Last Modified Date"
+msgstr ""
+
+#: includes/menu_page.php:647
+msgid "Random Order"
+msgstr ""
+
+#: includes/menu_page.php:650
+msgid "Parameter to sort the attachments by."
+msgstr ""
+
+#: includes/menu_page.php:692
+msgid ""
+"Select the terms that you would like use in post query and for filtering (if "
+"the porfolio is filterble). "
+msgstr ""
+
+#: includes/menu_page.php:693
+msgid ""
+"<strong>Important: </strong>Don't select any terms if you wouldn't like to "
+"filter the post query by a taxonomy or taxnomy terms."
+msgstr ""
+
+#: includes/menu_page.php:709
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/menu_page.php:717 includes/menu_page.php:746
+msgid ""
+"Select the taxonomy that you would like use in post query and for filtering "
+"(if the porfolio is filterble)."
+msgstr ""
+
+#: includes/menu_page.php:738
+msgid "Taxonomy filter"
+msgstr ""
+
+#: includes/menu_page.php:763
+msgid "Post Order"
+msgstr ""
+
+#: includes/menu_page.php:766
+msgid "Descending order"
+msgstr ""
+
+#: includes/menu_page.php:767
+msgid "Asccending order"
+msgstr ""
+
+#: includes/menu_page.php:770
+msgid ""
+"Descending order from highest to lowest values (3, 2, 1; c, b, a) or "
+"ascending order from lowest to highest values."
+msgstr ""
+
+#: includes/menu_page.php:776
+msgid "Order by date"
+msgstr ""
+
+#: includes/menu_page.php:777
+msgid "Order by author"
+msgstr ""
+
+#: includes/menu_page.php:778
+msgid "Order by post id"
+msgstr ""
+
+#: includes/menu_page.php:779
+msgid "Order by title"
+msgstr ""
+
+#: includes/menu_page.php:780
+msgid "Order by post name (post slug)"
+msgstr ""
+
+#: includes/menu_page.php:781
+msgid "Order by last modified date"
+msgstr ""
+
+#: includes/menu_page.php:782
+msgid "Order by number of comments"
+msgstr ""
+
+#: includes/menu_page.php:783
+msgid "Order by page order"
+msgstr ""
+
+#: includes/menu_page.php:784
+msgid "Random order"
+msgstr ""
+
+#: includes/menu_page.php:787
+msgid "Parameter to sort the posts by."
+msgstr ""
+
+#: includes/menu_page.php:794
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/menu_page.php:796
+msgid ""
+"Number of posts to be shown. <strong>Important: </strong>Leave empty if you "
+"wouldn't like to limit number of posts."
+msgstr ""
+
+#: includes/menu_page.php:799
+msgid "Exclude Current Item?"
+msgstr ""
+
+#: includes/menu_page.php:801
+msgid ""
+"Whether to exlude the current item from the query. If you insert the "
+"portfolio into a single post page of the selected post type, the current "
+"single item will be excluded form the post list (portfolio).<br>This is "
+"ideal for \"Related Posts\" or \"Recents Post\" teasers."
+msgstr ""
+
+#: includes/menu_page.php:817
+msgid "Layout Settings"
+msgstr ""
+
+#: includes/menu_page.php:817
+msgid "Columns, Spaces and Thumbnail"
+msgstr ""
+
+#: includes/menu_page.php:823
+msgid "Layout Type"
+msgstr ""
+
+#: includes/menu_page.php:826
+msgid "Grid Type (e.g. Regular Porfolio)"
+msgstr ""
+
+#: includes/menu_page.php:827
+msgid "Slider Type (e.g. Porfolio Teaser)"
+msgstr ""
+
+#: includes/menu_page.php:830
+msgid ""
+"Select layout type. Grid Type is ideal for (filterable) portfolio, Slider "
+"type is for teasers (e. g. recent or related items). <strong>Important: "
+"</strong>Slider type portfolio cannot be filterable."
+msgstr ""
+
+#: includes/menu_page.php:833
+msgid "Layout Mode"
+msgstr ""
+
+#: includes/menu_page.php:837
+msgid "Masonry"
+msgstr ""
+
+#: includes/menu_page.php:840
+msgid "Fit Rows (Equal height rows)"
+msgstr ""
+
+#: includes/menu_page.php:844
+msgid ""
+"Select layout mode. Masonry: Items have their own dimensions depending on "
+"the media and content. Fit Rows: Items have same height in each row. "
+msgstr ""
+
+#: includes/menu_page.php:848
+msgid "Enable CSS Transforms?"
+msgstr ""
+
+#: includes/menu_page.php:850
+msgid ""
+"Whether enable CSS transforms for isotope grid animations (e.g. ordering, "
+"filtering post items.) if available. <strong>Important: </strong>Recommended "
+"to enable this option except if you use videos or other iframe Flash content "
+"in thumbnnails. Safari and Firefox on Mac don't render videos (and other "
+"Flash content) when transform is applied to parent element."
+msgstr ""
+
+#: includes/menu_page.php:853
+msgid "Infinite?"
+msgstr ""
+
+#: includes/menu_page.php:855
+msgid "Whether to slide infinitely."
+msgstr ""
+
+#: includes/menu_page.php:858
+msgid "Autoplay?"
+msgstr ""
+
+#: includes/menu_page.php:860
+msgid "Whether to autoplay sider."
+msgstr ""
+
+#: includes/menu_page.php:863
+msgid "Autoplay direction"
+msgstr ""
+
+#: includes/menu_page.php:866
+msgid "Left"
+msgstr ""
+
+#: includes/menu_page.php:867
+msgid "Right"
+msgstr ""
+
+#: includes/menu_page.php:869
+msgid "Direction of autoplay."
+msgstr ""
+
+#: includes/menu_page.php:872
+msgid "Autoplay timeout duration?"
+msgstr ""
+
+#: includes/menu_page.php:874
+msgid "Timeout duration between slides (milliseconds)."
+msgstr ""
+
+#: includes/menu_page.php:877
+msgid "Slider arrows alignment"
+msgstr ""
+
+#: includes/menu_page.php:880 includes/menu_page.php:1591
+#: includes/menu_page.php:1732 includes/menu_page.php:1795
+#: includes/menu_page.php:1837
+msgid "Align Left"
+msgstr ""
+
+#: includes/menu_page.php:881 includes/menu_page.php:1592
+#: includes/menu_page.php:1733 includes/menu_page.php:1796
+#: includes/menu_page.php:1838
+msgid "Align Center"
+msgstr ""
+
+#: includes/menu_page.php:882 includes/menu_page.php:1593
+#: includes/menu_page.php:1734 includes/menu_page.php:1797
+#: includes/menu_page.php:1839
+msgid "Align Right"
+msgstr ""
+
+#: includes/menu_page.php:885
+msgid "Select alignment for slider arrows."
+msgstr ""
+
+#: includes/menu_page.php:888
+msgid "Slider arrows space"
+msgstr ""
+
+#: includes/menu_page.php:890
+msgid "Space between slider arrows and portfolio (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:893
+msgid "Slider arrows vertical space"
+msgstr ""
+
+#: includes/menu_page.php:895
+msgid "Space between the slider arrows (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:901
+msgid "Layout Direction"
+msgstr ""
+
+#: includes/menu_page.php:904
+msgid "Left to Right (LTR)"
+msgstr ""
+
+#: includes/menu_page.php:905
+msgid "Right to Left (RTL)"
+msgstr ""
+
+#: includes/menu_page.php:908
+msgid ""
+"Select layout direction. <strong>Important: </strong>If you select RTL you "
+"should also opt-out the \"Enable CSS Transforms?\" option."
+msgstr ""
+
+#: includes/menu_page.php:911
+msgid "Column Layout per Row"
+msgstr ""
+
+#: includes/menu_page.php:914
+msgid "1 Column"
+msgstr ""
+
+#: includes/menu_page.php:915
+msgid "2 Columns"
+msgstr ""
+
+#: includes/menu_page.php:916
+msgid "3 Columns"
+msgstr ""
+
+#: includes/menu_page.php:917
+msgid "4 Columns"
+msgstr ""
+
+#: includes/menu_page.php:918
+msgid "5 Columns"
+msgstr ""
+
+#: includes/menu_page.php:919
+msgid "6 Columns"
+msgstr ""
+
+#: includes/menu_page.php:920
+msgid "7 Columns"
+msgstr ""
+
+#: includes/menu_page.php:921
+msgid "8 Columns"
+msgstr ""
+
+#: includes/menu_page.php:922
+msgid "9 Columns"
+msgstr ""
+
+#: includes/menu_page.php:923
+msgid "10 Columns"
+msgstr ""
+
+#: includes/menu_page.php:926
+msgid "How many items would you like to be shown in a row."
+msgstr ""
+
+#: includes/menu_page.php:929
+msgid "Column Space"
+msgstr ""
+
+#: includes/menu_page.php:931
+msgid "Horizontal space between portfolio items (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:934
+msgid "Row Space"
+msgstr ""
+
+#: includes/menu_page.php:936
+msgid "Vertical space between portfolio items (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:952
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: includes/menu_page.php:952
+msgid "Thumbnail and Lightbox Image Settings"
+msgstr ""
+
+#: includes/menu_page.php:958
+msgid "Thumbnail Width"
+msgstr ""
+
+#: includes/menu_page.php:961
+msgid ""
+"You can set fixed thumbnail aspect ratio (width and height ratio) overriding "
+"thumbnail default one. <br>For example: If you set the width and the height "
+"to \"1\" the image aspect ratio will be 1 (=1/1). This means the width and "
+"height is the same.<br><strong>Important: </strong>You can set fixed height "
+"(in pixels) if you set only the height field.<br>Leave these fields empty if "
+"you would like to use the default dimensions and aspect ratios for "
+"thumbnails."
+msgstr ""
+
+#: includes/menu_page.php:965
+msgid "Thumbnail Height"
+msgstr ""
+
+#: includes/menu_page.php:969
+msgid "Select Thumbnail Image Size"
+msgstr ""
+
+#: includes/menu_page.php:986 includes/menu_page.php:1073
+msgid "Original Resolution"
+msgstr ""
+
+#: includes/menu_page.php:987 includes/menu_page.php:1074
+msgid "Intermediate Resolutions"
+msgstr ""
+
+#: includes/menu_page.php:999
+msgid ""
+"The preferred resolution for thumbnail image. The original resolution is "
+"loaded if a thumbnail size doesn't exist for an image."
+msgstr ""
+
+#: includes/menu_page.php:1002
+msgid "Thumbnail bg Position X"
+msgstr ""
+
+#: includes/menu_page.php:1004
+msgid "Thumbnail image background X position (percent)."
+msgstr ""
+
+#: includes/menu_page.php:1007
+msgid "Thumbnail bg Position Y"
+msgstr ""
+
+#: includes/menu_page.php:1009
+msgid "Thumbnail image background Y position (percent)."
+msgstr ""
+
+#: includes/menu_page.php:1012
+msgid "Image Thumbnail Link"
+msgstr ""
+
+#: includes/menu_page.php:1015
+msgid "Disable (Not Link)"
+msgstr ""
+
+#: includes/menu_page.php:1016
+msgid "Link to the Lightbox"
+msgstr ""
+
+#: includes/menu_page.php:1017
+msgid "Link to an URL"
+msgstr ""
+
+#: includes/menu_page.php:1020
+msgid ""
+"You can make the whole image thumbnail linkable if you disable overlay or "
+"overlay buttons globally or locally (per post). The link can open lightbox "
+"or go to an URL."
+msgstr ""
+
+#: includes/menu_page.php:1023
+msgid "First Image as Thumbnail?"
+msgstr ""
+
+#: includes/menu_page.php:1026
+msgid "Disable (Not Set)"
+msgstr ""
+
+#: includes/menu_page.php:1027
+msgid "Force"
+msgstr ""
+
+#: includes/menu_page.php:1028
+msgid "Fallback"
+msgstr ""
+
+#: includes/menu_page.php:1031
+msgid ""
+"Whether to set the first image in the post content as thumbnail image.<br>"
+"<strong>Force:</strong> The first image in post content will be set as "
+"thumbnail overriding other thumbnail settings. <br><strong>Fallback:</strong>"
+" The first image in post content will be set as thumbnail image if no "
+"thumbnail image has been set (\"Thumbnail Image\" under \"Go Portfolio "
+"Options\" metabox or \"Featured image\")."
+msgstr ""
+
+#: includes/menu_page.php:1034
+msgid "Default Image"
+msgstr ""
+
+#: includes/menu_page.php:1063
+msgid ""
+"Default image is used only when image is not specified for portfolio items."
+msgstr ""
+
+#: includes/menu_page.php:1070
+msgid "Select Lightbox Image Size"
+msgstr ""
+
+#: includes/menu_page.php:1086
+msgid ""
+"The preferred resolution for lighbox image. The original resolution is "
+"loaded if a thumbnail size doesn't exist for an image."
+msgstr ""
+
+#: includes/menu_page.php:1103 includes/menu_page.php:1530
+msgid "Template & Style Settings"
+msgstr ""
+
+#: includes/menu_page.php:1103
+msgid "Select Template and Style"
+msgstr ""
+
+#: includes/menu_page.php:1111 includes/menu_page.php:1117
+msgid "Style"
+msgstr ""
+
+#: includes/menu_page.php:1112 includes/menu_page.php:1182
+msgid "Template"
+msgstr ""
+
+#: includes/menu_page.php:1132 includes/menu_page.php:1197
+msgid "Hide source"
+msgstr ""
+
+#: includes/menu_page.php:1132 includes/menu_page.php:1197
+#: includes/menu_page.php:1197
+msgid "Show Source"
+msgstr ""
+
+#: includes/menu_page.php:1133 includes/menu_page.php:1198
+#: includes/submenu_page_editor.php:255 includes/submenu_page_editor.php:424
+msgid "Reset"
+msgstr ""
+
+#: includes/menu_page.php:1133 includes/menu_page.php:1198
+msgid "Oops, AJAX error!"
+msgstr ""
+
+#: includes/menu_page.php:1136
+msgid "Select a style."
+msgstr ""
+
+#: includes/menu_page.php:1145
+msgid "Effect"
+msgstr ""
+
+#: includes/menu_page.php:1157
+msgid "Select an effect for this style."
+msgstr ""
+
+#: includes/menu_page.php:1161 includes/menu_page.php:1209
+#, php-format
+msgid ""
+"All changes will affect this portfolio only. If you would like to change the "
+"layout generally, navigate to %1$s."
+msgstr ""
+
+#: includes/menu_page.php:1201
+msgid "Select a template."
+msgstr ""
+
+#: includes/menu_page.php:1241
+msgid "Style Customization"
+msgstr ""
+
+#: includes/menu_page.php:1241
+msgid "Fonts, Colors an Other Styling"
+msgstr ""
+
+#: includes/menu_page.php:1249
+msgid "General"
+msgstr ""
+
+#: includes/menu_page.php:1250
+msgid "Filtering"
+msgstr ""
+
+#: includes/menu_page.php:1251
+msgid "Overlay & Lightbox"
+msgstr ""
+
+#: includes/menu_page.php:1252 includes/vc/class_vc_extend.php:68
+msgid "Content"
+msgstr ""
+
+#: includes/menu_page.php:1253
+msgid "Pagination"
+msgstr ""
+
+#: includes/menu_page.php:1254 includes/submenu_page_general_settings.php:358
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/menu_page.php:1261
+msgid "Extra Large Font Size"
+msgstr ""
+
+#: includes/menu_page.php:1266
+msgid "Extra large font used in WooCommerce price text (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1267 includes/menu_page.php:1276
+#: includes/menu_page.php:1289 includes/menu_page.php:1301
+#: includes/menu_page.php:1310 includes/menu_page.php:1323
+#: includes/menu_page.php:1335 includes/menu_page.php:1344
+#: includes/menu_page.php:1357 includes/menu_page.php:1369
+#: includes/menu_page.php:1378 includes/menu_page.php:1391
+#: includes/menu_page.php:1403 includes/menu_page.php:1412
+#: includes/menu_page.php:1421 includes/menu_page.php:1430
+#: includes/menu_page.php:1439 includes/menu_page.php:1448
+#: includes/menu_page.php:1460 includes/menu_page.php:1469
+#: includes/menu_page.php:1478 includes/menu_page.php:1487
+#: includes/menu_page.php:1496 includes/menu_page.php:1505
+#: includes/menu_page.php:1514 includes/menu_page.php:1523
+msgid "CSS varible:"
+msgstr ""
+
+#: includes/menu_page.php:1270
+msgid "Extra Large Line Height"
+msgstr ""
+
+#: includes/menu_page.php:1275 includes/menu_page.php:1309
+#: includes/menu_page.php:1343 includes/menu_page.php:1377
+msgid "Line Height (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1279
+msgid "Extra Large Font Family"
+msgstr ""
+
+#: includes/menu_page.php:1282 includes/menu_page.php:1316
+#: includes/menu_page.php:1350 includes/menu_page.php:1384
+msgid "Default (Theme or Other Defined)"
+msgstr ""
+
+#: includes/menu_page.php:1283 includes/menu_page.php:1317
+#: includes/menu_page.php:1351 includes/menu_page.php:1385
+msgid "Primary Font Family"
+msgstr ""
+
+#: includes/menu_page.php:1284 includes/menu_page.php:1318
+#: includes/menu_page.php:1352 includes/menu_page.php:1386
+msgid "Secondary Font Family"
+msgstr ""
+
+#: includes/menu_page.php:1288 includes/menu_page.php:1322
+#: includes/menu_page.php:1356 includes/menu_page.php:1390
+#, php-format
+msgid "Font families can be set under \"%1$s\" plugin submenu."
+msgstr ""
+
+#: includes/menu_page.php:1295
+msgid "Large Font Size"
+msgstr ""
+
+#: includes/menu_page.php:1300
+msgid "Large font used in post titles (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1304
+msgid "Large Font Line Height"
+msgstr ""
+
+#: includes/menu_page.php:1313
+msgid "Large Font Family"
+msgstr ""
+
+#: includes/menu_page.php:1329
+msgid "Middle Font Size"
+msgstr ""
+
+#: includes/menu_page.php:1334
+msgid "Middle font used in portfolio filter and post excerpt (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1338
+msgid "Middle Font Line Height"
+msgstr ""
+
+#: includes/menu_page.php:1347
+msgid "Middle Font Family"
+msgstr ""
+
+#: includes/menu_page.php:1363
+msgid "Small Font Size"
+msgstr ""
+
+#: includes/menu_page.php:1368
+msgid "Small font used in post meta (e.g. Post Date) (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1372
+msgid "Small Font Line Height"
+msgstr ""
+
+#: includes/menu_page.php:1381
+msgid "Small Font Family"
+msgstr ""
+
+#: includes/menu_page.php:1397
+msgid "Main Color 1"
+msgstr ""
+
+#: includes/menu_page.php:1402
+msgid ""
+"This color is used for example for post excerpt and post title font color or "
+"buttons background color."
+msgstr ""
+
+#: includes/menu_page.php:1406
+msgid "Main Color 2"
+msgstr ""
+
+#: includes/menu_page.php:1411
+msgid "This color is used for example for post meta (date) font color."
+msgstr ""
+
+#: includes/menu_page.php:1415
+msgid "Main Color 3"
+msgstr ""
+
+#: includes/menu_page.php:1420
+msgid "This color is used for example for button text color."
+msgstr ""
+
+#: includes/menu_page.php:1424
+msgid "Main Color 4"
+msgstr ""
+
+#: includes/menu_page.php:1429
+msgid "This color is used in WooCommerce old price color."
+msgstr ""
+
+#: includes/menu_page.php:1433
+msgid "Highlight Color"
+msgstr ""
+
+#: includes/menu_page.php:1438
+msgid ""
+"This color is used for example for button background, link or overlay button "
+"color."
+msgstr ""
+
+#: includes/menu_page.php:1442
+msgid "Post Content bg Color"
+msgstr ""
+
+#: includes/menu_page.php:1447
+msgid "This color is for post content background color."
+msgstr ""
+
+#: includes/menu_page.php:1454
+msgid "Post Content Inner Padding"
+msgstr ""
+
+#: includes/menu_page.php:1459
+msgid ""
+"Post content inner space (distance between content and border) (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1463
+msgid "Post Content Opacity"
+msgstr ""
+
+#: includes/menu_page.php:1468
+msgid "Post content background opacity (percent, between 0-100)."
+msgstr ""
+
+#: includes/menu_page.php:1472
+msgid "Border Radius 1"
+msgstr ""
+
+#: includes/menu_page.php:1477
+msgid "This property used for the whole post border (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1481
+msgid "Border Radius 2"
+msgstr ""
+
+#: includes/menu_page.php:1486
+msgid ""
+"This property used for buttons and portfolio filter tags border (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1490
+msgid "Border Radius 3"
+msgstr ""
+
+#: includes/menu_page.php:1495
+msgid "This property is used for the portfolio overlay circle border (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1499
+msgid "Box Shadow Opacity"
+msgstr ""
+
+#: includes/menu_page.php:1504
+msgid "The shadow opacity around the the post (percent, between 0-100)."
+msgstr ""
+
+#: includes/menu_page.php:1508
+msgid "Box Shadow Blur"
+msgstr ""
+
+#: includes/menu_page.php:1513
+msgid "The shadow blur around the the post. (pixels)"
+msgstr ""
+
+#: includes/menu_page.php:1517
+msgid "Box Shadow Spread"
+msgstr ""
+
+#: includes/menu_page.php:1522
+msgid "The shadow spread around the the post. (pixels)"
+msgstr ""
+
+#: includes/menu_page.php:1530
+#, php-format
+msgid ""
+"You can customize every part of the portfolio style including fonts, colors, "
+"border radius, opacity, and other properties using the source editor under "
+"\"%1$s\"."
+msgstr ""
+
+#: includes/menu_page.php:1540
+msgid "Filterable?"
+msgstr ""
+
+#: includes/menu_page.php:1542
+msgid "Enable or disable filtering (show or hide)."
+msgstr ""
+
+#: includes/menu_page.php:1545
+msgid "Filtering Type?"
+msgstr ""
+
+#: includes/menu_page.php:1548
+msgid "Classic (Isotope Filtering)"
+msgstr ""
+
+#: includes/menu_page.php:1549
+msgid "Opacity Change"
+msgstr ""
+
+#: includes/menu_page.php:1552
+msgid ""
+"Filtering method. \"Classic\" isotope filtering with modifying layout or "
+"\"Opacity Change\" without modifying the layout."
+msgstr ""
+
+#: includes/menu_page.php:1555
+msgid "Element opacity"
+msgstr ""
+
+#: includes/menu_page.php:1557
+msgid "Opacity of inactive elements (percent, between 0-100)."
+msgstr ""
+
+#: includes/menu_page.php:1563
+msgid "\"All\" Filter Tag Text"
+msgstr ""
+
+#: includes/menu_page.php:1565
+msgid "Text of the \"All\" filter tag."
+msgstr ""
+
+#: includes/menu_page.php:1568
+msgid "Filter Tag Style"
+msgstr ""
+
+#: includes/menu_page.php:1571 includes/menu_page.php:1581
+#: includes/menu_page.php:1673 includes/menu_page.php:1807
+#: includes/menu_page.php:1853
+msgid "Button"
+msgstr ""
+
+#: includes/menu_page.php:1572 includes/menu_page.php:1582
+#: includes/menu_page.php:1674 includes/menu_page.php:1808
+#: includes/menu_page.php:1854
+msgid "Outlined Button"
+msgstr ""
+
+#: includes/menu_page.php:1575
+msgid "Select style for filter tag."
+msgstr ""
+
+#: includes/menu_page.php:1578
+msgid "Selected Filter Tag Style"
+msgstr ""
+
+#: includes/menu_page.php:1585
+msgid "Select style for \"Selected\" filter tags."
+msgstr ""
+
+#: includes/menu_page.php:1588
+msgid "Filter Alignment"
+msgstr ""
+
+#: includes/menu_page.php:1596
+msgid "Select alignment for filter tags."
+msgstr ""
+
+#: includes/menu_page.php:1599
+msgid "Filter Vertical Space"
+msgstr ""
+
+#: includes/menu_page.php:1601
+msgid "Vertical space between portfolio filter and portfolio items (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1604
+msgid "Filter Vertical Position"
+msgstr ""
+
+#: includes/menu_page.php:1607
+msgid "Top"
+msgstr ""
+
+#: includes/menu_page.php:1608
+msgid "Bottom"
+msgstr ""
+
+#: includes/menu_page.php:1611
+msgid "Vertical Position of Filter."
+msgstr ""
+
+#: includes/menu_page.php:1614
+msgid "Space Between Filter Tags"
+msgstr ""
+
+#: includes/menu_page.php:1616
+msgid "Space between portfolio filter tags (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1625
+msgid "Enable Overlay?"
+msgstr ""
+
+#: includes/menu_page.php:1627
+msgid "Enable or disable overlay for thumbnail images."
+msgstr ""
+
+#: includes/menu_page.php:1630
+msgid "Show Overlay On"
+msgstr ""
+
+#: includes/menu_page.php:1633
+msgid "Image Hover"
+msgstr ""
+
+#: includes/menu_page.php:1634
+msgid "Post Hover"
+msgstr ""
+
+#: includes/menu_page.php:1637
+msgid "Wether to show overlay on image hover or post hover."
+msgstr ""
+
+#: includes/menu_page.php:1640
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/menu_page.php:1642
+msgid "Overlay color. Use the colorpicker to choose a color."
+msgstr ""
+
+#: includes/menu_page.php:1645
+msgid "Overlay Opacity"
+msgstr ""
+
+#: includes/menu_page.php:1647
+msgid "Overlay opacity (percent, between 0-100)."
+msgstr ""
+
+#: includes/menu_page.php:1650
+msgid "Enable Lighbox Button on Overlay?"
+msgstr ""
+
+#: includes/menu_page.php:1652
+msgid ""
+"Enable or disable the lightbox button on overlay. You can disable the button "
+"per post/attachment under \"Go Portfolio Options\" metabox if you enable it "
+"here."
+msgstr ""
+
+#: includes/menu_page.php:1655
+msgid "Enable Read More Button on Overlay?"
+msgstr ""
+
+#: includes/menu_page.php:1657
+msgid ""
+"Enable or disable the read more/link button on overlay. You can disable the "
+"button per post/attachment under \"Go Portfolio Options\" metabox if you "
+"enable it here."
+msgstr ""
+
+#: includes/menu_page.php:1660
+msgid "Overlay Button Type"
+msgstr ""
+
+#: includes/menu_page.php:1663
+msgid "Circle Buttons with Icons"
+msgstr ""
+
+#: includes/menu_page.php:1664
+msgid "Buttons with Text"
+msgstr ""
+
+#: includes/menu_page.php:1667
+msgid "Select the overlay button type."
+msgstr ""
+
+#: includes/menu_page.php:1670
+msgid "Overlay button style"
+msgstr ""
+
+#: includes/menu_page.php:1677
+msgid "Select the overlay button style."
+msgstr ""
+
+#: includes/menu_page.php:1680
+msgid "Overlay link button text"
+msgstr ""
+
+#: includes/menu_page.php:1682
+msgid "Text for \"link to post\" button."
+msgstr ""
+
+#: includes/menu_page.php:1685
+msgid "Overlay lightbox link button text"
+msgstr ""
+
+#: includes/menu_page.php:1687
+msgid "Text for \"link to image\" lightbox button."
+msgstr ""
+
+#: includes/menu_page.php:1690
+msgid "Overlay video link button text"
+msgstr ""
+
+#: includes/menu_page.php:1692
+msgid "Text for \"link to video\" lightbox button."
+msgstr ""
+
+#: includes/menu_page.php:1695
+msgid "Overlay audio link button text"
+msgstr ""
+
+#: includes/menu_page.php:1697
+msgid "Text for \"link to audio\" lightbox button."
+msgstr ""
+
+#: includes/menu_page.php:1703
+msgid "Disable Lightbox?"
+msgstr ""
+
+#: includes/menu_page.php:1705
+msgid "Disable the default lightbox."
+msgstr ""
+
+#: includes/menu_page.php:1708
+msgid "Show Caption Under Lightbox?"
+msgstr ""
+
+#: includes/menu_page.php:1710
+msgid ""
+"Caption source is the media title for attachments post type, otherwise the "
+"post title."
+msgstr ""
+
+#: includes/menu_page.php:1713
+msgid "Enable Lightbox Gallery?"
+msgstr ""
+
+#: includes/menu_page.php:1715
+msgid "Enable gallery option for lightbox."
+msgstr ""
+
+#: includes/menu_page.php:1718
+msgid "Enable Deep Linking for the Lightbox?"
+msgstr ""
+
+#: includes/menu_page.php:1720
+msgid ""
+"Enable deep linking for the lightbox. <strong>Important:</strong> Deep "
+"linking manipulates the hashtag in the site url and the browser history. "
+"Enabling may cause conflicts with themes (plugins) which also modify hash or "
+"history (e.g. page reloading)."
+msgstr ""
+
+#: includes/menu_page.php:1729
+msgid "Post Content Alignment"
+msgstr ""
+
+#: includes/menu_page.php:1737
+msgid "Select the text alignment for the post content."
+msgstr ""
+
+#: includes/menu_page.php:1740
+msgid "Post Title Maximum Length"
+msgstr ""
+
+#: includes/menu_page.php:1742
+msgid ""
+"Number of characters to show. <br><strong>Important:</strong> Leave empty if "
+"you don't like to set this value."
+msgstr ""
+
+#: includes/menu_page.php:1748
+msgid "Post Excerpt Source"
+msgstr ""
+
+#: includes/menu_page.php:1751
+msgid "Post Content / Image Description"
+msgstr ""
+
+#: includes/menu_page.php:1752
+msgid "Post Excerpt (If Available)"
+msgstr ""
+
+#: includes/menu_page.php:1755
+msgid "The source of the generated post excerpt."
+msgstr ""
+
+#: includes/menu_page.php:1758
+msgid "Post Excerpt Maximum Words "
+msgstr ""
+
+#: includes/menu_page.php:1760
+msgid "Number of words to show. The longer text will be cut off."
+msgstr ""
+
+#: includes/menu_page.php:1763
+msgid "Post Excerpt More String"
+msgstr ""
+
+#: includes/menu_page.php:1765
+msgid "The string at the end of the excerpt."
+msgstr ""
+
+#: includes/menu_page.php:1768
+msgid "Strip Shortcodes from Excerpt?"
+msgstr ""
+
+#: includes/menu_page.php:1770
+msgid "Whether to remove shortcodes in the excerpt."
+msgstr ""
+
+#: includes/menu_page.php:1773
+msgid "Strip HTML Tags from Excerpt?"
+msgstr ""
+
+#: includes/menu_page.php:1775
+msgid "Whether to remove HTML in the excerpt."
+msgstr ""
+
+#: includes/menu_page.php:1778
+msgid "Allowed HTML Tags in Excerpt "
+msgstr ""
+
+#: includes/menu_page.php:1780
+msgid ""
+"Allowed HTML tags in excerpt if the \"Strip HTML Tags from Excerpt?\" option "
+"is enabled. Others will be stripped. E.g. to allow links enter \"&lt;a&gt;\","
+" to allow links and paragraph enter \"&lt;a&gt;&lt;p&gt;\". <br> <strong>"
+"Important:</strong> Don't use space or other delimiters if you add more tags."
+msgstr ""
+
+#: includes/menu_page.php:1786
+msgid "Read More Button Text"
+msgstr ""
+
+#: includes/menu_page.php:1788
+msgid "Text of the \"Road More\" button."
+msgstr ""
+
+#: includes/menu_page.php:1789
+msgid "HTML varible in templates:"
+msgstr ""
+
+#: includes/menu_page.php:1792
+msgid "Read More Button Alignment"
+msgstr ""
+
+#: includes/menu_page.php:1800
+msgid "Select the button alignment for the \"Road More\" button."
+msgstr ""
+
+#: includes/menu_page.php:1803
+msgid "Read More Button Style"
+msgstr ""
+
+#: includes/menu_page.php:1806
+msgid "Link"
+msgstr ""
+
+#: includes/menu_page.php:1811
+msgid "Select style for the \"Road More\" button."
+msgstr ""
+
+#: includes/menu_page.php:1820
+msgid "Enable Pagination?"
+msgstr ""
+
+#: includes/menu_page.php:1822
+msgid ""
+"Enable pagination if your post length is larger than the \"Number of Posts\" "
+"option."
+msgstr ""
+
+#: includes/menu_page.php:1825
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/menu_page.php:1828
+msgid "Load More"
+msgstr ""
+
+#: includes/menu_page.php:1831
+msgid "Select the type of the pagination."
+msgstr ""
+
+#: includes/menu_page.php:1834
+msgid "Pagination Alignment"
+msgstr ""
+
+#: includes/menu_page.php:1842
+msgid "Select the alignment for the pagination."
+msgstr ""
+
+#: includes/menu_page.php:1845
+msgid "Pagination Vertical Space"
+msgstr ""
+
+#: includes/menu_page.php:1847
+msgid "Vertical space between pagination and portfolio (pixels)."
+msgstr ""
+
+#: includes/menu_page.php:1850
+msgid "Button Style"
+msgstr ""
+
+#: includes/menu_page.php:1857
+msgid "Select style for \"Load More\" button."
+msgstr ""
+
+#: includes/menu_page.php:1860
+msgid "Load more button text"
+msgstr ""
+
+#: includes/menu_page.php:1862
+msgid "Text of the \"Load more\" button."
+msgstr ""
+
+#: includes/menu_page.php:1865
+msgid "Load more button loading text"
+msgstr ""
+
+#: includes/menu_page.php:1867
+msgid "Text of the \"Load more\" button when new posts are loading."
+msgstr ""
+
+#: includes/menu_page.php:1876 includes/submenu_page_general_settings.php:362
+msgid "Code"
+msgstr ""
+
+#: includes/menu_page.php:1884
+msgid ""
+"CSS code will be automatically prefixed with an id selector (e.g. "
+"#gw_go_portfolio_my_portfolio .my-custom-rule { ... }) and will be applied "
+"to this portfolio only! For general - not portfolio specific - CSS codes use "
+"the \"Custom CSS\" section under General Settings page."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:64
+msgid "The custom post type has been successfully cloned."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:85
+msgid "The custom post type has been successfully deleted."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:111
+msgid "Custom post type name is empty!"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:116
+msgid "Custom post type name already exists!"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:125
+msgid "Custom post type singular name is empty!"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:130
+msgid "Post type singular name already exists!"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:139
+msgid "Custom post type slug is empty!"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:143
+msgid ""
+"Custom post type slug contains invalid characters! Only lowercase letters, "
+"numbers, hyphens and underscores are allowed."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:150
+msgid "Post type slug already exists!"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:168
+msgid "Custom post types has been successfully updated."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:216
+msgid "Go Portfolio - Custom Post Type Manager"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:251 includes/submenu_page_ctps.php:345
+msgid "Custom Post Type Manager"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:265
+#, php-format
+msgid "<strong>Slug</strong>: %s"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:284
+msgid "Create a new custom post type from Scratch or Import existing ones"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:329
+msgid "Custom post type doesn't exist!"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:329
+msgid "to create new custom post type."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:349
+msgid "Plural name"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:351
+msgid "General name for the post type, usually plural (e.g. Portfolio)."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:354
+msgid "Singular name"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:356
+msgid "Name for one object of this post type (e.g. Portfolio post)."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:359
+msgid "Slug"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:361
+msgid ""
+"URL friendly version of the custom post type (e.g. portfolio). <strong>"
+"Important: </strong>Only lowercase letters, numbers, hyphens and underscores."
+" Max. 20 characters."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:364
+msgid "Has archive?"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:366
+msgid ""
+"Enables post type archives. Will use the post type as archive slug by "
+"default."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:369
+msgid "Exclude from search?"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:371
+msgid ""
+"Whether to exclude posts with this post type from front end search results."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:377
+msgid "Enable post type?"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:379
+msgid ""
+"Enable or disable custom post type.  <strong>Important: </strong>You should "
+"enable the custom post type to be registered."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:388
+msgid "Custom Post Type Taxonomy Manager"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:392
+msgid "Create custom category taxonomy?"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:394
+msgid "Whether to register custom category taxonomy."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:397
+msgid "Create custom tag taxonomy?"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:399
+msgid "Whether to register custom tag taxonomy."
+msgstr ""
+
+#: includes/submenu_page_ctps.php:405
+msgid "Select additional taxonomies"
+msgstr ""
+
+#: includes/submenu_page_ctps.php:426
+msgid "Select the existing taxonomies to be registerered for the post type."
+msgstr ""
+
+#: includes/submenu_page_editor.php:78
+msgid "New Templates & Styles has been successfully imported."
+msgstr ""
+
+#: includes/submenu_page_editor.php:81
+msgid "No new templates or styles has been found."
+msgstr ""
+
+#: includes/submenu_page_editor.php:107
+msgid "Templates & Styles has been successfully reseted."
+msgstr ""
+
+#: includes/submenu_page_editor.php:141
+#, php-format
+msgid "\"%1$s\" template has been successfully updated."
+msgstr ""
+
+#: includes/submenu_page_editor.php:156
+#, php-format
+msgid "\"%1$s\" style has been successfully updated."
+msgstr ""
+
+#: includes/submenu_page_editor.php:186
+#, php-format
+msgid "\"%1$s\" template file is missing."
+msgstr ""
+
+#: includes/submenu_page_editor.php:189
+#, php-format
+msgid "\"%1$s\" template has been successfully reseted."
+msgstr ""
+
+#: includes/submenu_page_editor.php:206
+#, php-format
+msgid "\"%1$s\" stylesheet file is missing."
+msgstr ""
+
+#: includes/submenu_page_editor.php:209
+#, php-format
+msgid "\"%1$s\" style has been successfully reseted."
+msgstr ""
+
+#: includes/submenu_page_editor.php:249 includes/submenu_page_editor.php:337
+msgid "Reset All"
+msgstr ""
+
+#: includes/submenu_page_editor.php:250 includes/submenu_page_editor.php:338
+msgid "Import New"
+msgstr ""
+
+#: includes/submenu_page_editor.php:263
+msgid "Go Portfolio - Template & Style Editor"
+msgstr ""
+
+#: includes/submenu_page_editor.php:301
+msgid "Select template or style"
+msgstr ""
+
+#: includes/submenu_page_editor.php:306
+msgid "Templates"
+msgstr ""
+
+#: includes/submenu_page_editor.php:308 includes/submenu_page_editor.php:319
+msgid "(broken)"
+msgstr ""
+
+#: includes/submenu_page_editor.php:317
+msgid "Styles"
+msgstr ""
+
+#: includes/submenu_page_editor.php:327
+msgid "Select template or style to edit."
+msgstr ""
+
+#: includes/submenu_page_editor.php:359
+msgid "No template found!"
+msgstr ""
+
+#: includes/submenu_page_editor.php:359 includes/submenu_page_editor.php:373
+msgid "for Template & Style Editor"
+msgstr ""
+
+#: includes/submenu_page_editor.php:373
+msgid "No style found!"
+msgstr ""
+
+#: includes/submenu_page_editor.php:393
+#, php-format
+msgid "Edit Template: \"%1$s\""
+msgstr ""
+
+#: includes/submenu_page_editor.php:393
+#, php-format
+msgid "Edit style : \"%1$s\""
+msgstr ""
+
+#: includes/submenu_page_editor.php:398
+msgid ""
+"You can modify the default structure of the selected template. These changes "
+"will affect all portfolio use this template. \n"
+"You can make further modications for each portfolio when creating a "
+"portfolio."
+msgstr ""
+
+#: includes/submenu_page_editor.php:401
+msgid ""
+"You can modify the default code of the selected style. These changes will "
+"affect all portfolio use this style. \n"
+"You can make further modications for each portfolio when creating a "
+"portfolio."
+msgstr ""
+
+#: includes/submenu_page_editor.php:411
+msgid "<p>This template or style seems to be broken.</p>"
+msgstr ""
+
+#: includes/submenu_page_editor.php:412
+#, php-format
+msgid ""
+"<p>The following file is missing: \"<strong>%1$s</strong>\".</p><p> Please "
+"check if the reqired files doest exist and click to \"Reset\".</p>"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:51
+msgid "General settings has been successfully updated."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:80
+msgid "Go Portfolio - General Settings"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:104
+msgid "Admin Settings"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:108
+msgid "Disable AJAX in Admin?"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:110
+msgid ""
+"Whether to disable AJAX in then plugin admin area when you edit a portfolio?"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:117
+msgid "Set Role"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:120
+msgid "Administrator"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:121
+msgid "Editor"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:123
+msgid "Contributor"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:126
+msgid "Set minimum user role for the plugin."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:140
+msgid "Enable Post Types"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:162
+msgid "Built-in post types"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:169
+msgid "Select the Wordpress built-in post types to use in the plugin."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:196
+msgid "Custom post types"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:203
+msgid "Select the custom post types to use in the plugin."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:204
+msgid ""
+"Enabling means adding meta boxes to post for extra features (video, audio, "
+"thumbnail)."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:205
+msgid ""
+"<strong>Important:</strong> Custom post types defined by the plugin not "
+"listed here."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:215
+msgid ""
+"<strong>Important:</strong> You can use the plugin with any built-in post "
+"types and other (plugin or theme defined) custom post types."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:216
+msgid ""
+"Enabling means adding \"Go Portfolio Options\" meta box to the selected post "
+"type posts for the extra features (e.g. video thumbnail). Post types can be "
+"used to create a portfolio without enabling them, but the features are "
+"limited."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:226
+msgid "Styling Settings"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:230
+msgid "Primary font"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:232
+msgid "Primary font family (e.g. Arial, Helvetica, sans-serif)."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:235
+msgid "Primary font CSS"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:237
+msgid "Primary font external CSS file for Google (or other) fonts"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:240
+msgid "Secondary font"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:242
+msgid "Secondary font family (e.g. Verdana, Geneva, sans-serif)."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:245
+msgid "Secondary font CSS"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:247
+msgid "Secondary font external CSS file for Google (or other) fonts"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:253
+msgid "Enable responsivity"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:257
+msgid "Tablet (landscape) media query"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:258
+#: includes/submenu_page_general_settings.php:265
+#: includes/submenu_page_general_settings.php:272
+msgid "Minimum width"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:260
+#: includes/submenu_page_general_settings.php:267
+#: includes/submenu_page_general_settings.php:274
+msgid "Maximum width"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:264
+msgid "Mobile (landscape) media query"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:271
+msgid "Mobile (portrait) media query"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:281
+msgid "Tablet (landscape) view max width"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:283
+msgid "Maximum width of portfolio in tablet (landscape) view."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:286
+msgid "Mobile (landscape) view max width"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:288
+msgid "Maximum width of portfolio in mobile (landscape) view."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:291
+msgid "Mobile (portrait) view max width"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:293
+msgid "Maximum width of portfolio in mobile (portrait) view."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:299
+msgid "Disable transitions on mobile devices?"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:306
+msgid "Lightbox z-index"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:308
+msgid "Z-index of the lightbox"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:315
+msgid "Image Thumbnail Class"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:317
+msgid "Custom class to be set for each portfolio image thumbnail globally"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:328
+msgid "Plugin Assets"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:332
+msgid "Plugin Page(s) Restriction"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:335
+msgid "Include"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:336
+msgid "Exclude"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:339
+msgid ""
+"Specify the rule of the restriction. Include: pages/posts where to load "
+"plugin assets (JavaScript & CSS files). Exlude: pages/posts where NOT to "
+"load plugin assets."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:342
+msgid "Plugin Page(s)"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:344
+msgid ""
+"Comma separated list of page/post IDs (e.g. 13, 54, 126). Use to restrict "
+"the plugin to load or NOT to load JavaScript & CSS files (depending of the "
+"restriction rule) for the selected pages/posts only improving site "
+"performance. Leave blank if you don't want any restriction."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:347
+msgid "Load JavaScript In Header"
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:349
+msgid ""
+"Whether to load plugin JavaScript in header section of the website. Disable "
+"it to load it in the page footer (recommended)."
+msgstr ""
+
+#: includes/submenu_page_general_settings.php:370
+msgid ""
+"Please add general CSS codes here, for table specific codes use the \"Style "
+"Customization > Custom CSS\" section when you edit a portfolio."
+msgstr ""
+
+#: includes/submenu_page_import_export.php:50
+#: includes/submenu_page_import_export.php:537
+msgid "There is nothing to export!"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:71
+msgid "Invalid import data!"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:93
+#: includes/submenu_page_import_export.php:239
+#: includes/submenu_page_import_export.php:401
+msgid "There is nothing to import!"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:171
+#, php-format
+msgid "%1$d custom post type item(s) has been imported."
+msgstr ""
+
+#: includes/submenu_page_import_export.php:225
+#, php-format
+msgid "%1$d portfolio item(s) has been imported."
+msgstr ""
+
+#: includes/submenu_page_import_export.php:279
+msgid "Go Portfolio - Import & Export"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:314
+msgid "Import & Export Data"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:318
+msgid "Select Action"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:321
+msgid "Import data"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:322
+msgid "Export data"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:325
+msgid "Import or export data."
+msgstr ""
+
+#: includes/submenu_page_import_export.php:330
+msgid ""
+"To import data open the file that contains demodata and copy its content to "
+"the textarea below and click to the \"Next\" button."
+msgstr ""
+
+#: includes/submenu_page_import_export.php:340
+#: includes/submenu_page_import_export.php:420
+msgid "Custom Post Type"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:343
+msgid "All Custom Post Types"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:352
+msgid "Select the custom post types you would like to export."
+msgstr ""
+
+#: includes/submenu_page_import_export.php:357
+#: includes/submenu_page_import_export.php:437
+msgid "Portfolio"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:360
+#: includes/submenu_page_import_export.php:440
+msgid "All Portfolios"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:369
+msgid "Select the portfolios you would like to export."
+msgstr ""
+
+#: includes/submenu_page_import_export.php:401
+#: includes/submenu_page_import_export.php:537
+msgid "for Import & Export"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:412
+msgid "Import Data"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:416
+msgid "Select the data to be imported and click to \"Next\" button."
+msgstr ""
+
+#: includes/submenu_page_import_export.php:423
+msgid "All custom post types"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:432
+msgid "Select the custom post types you would like to import."
+msgstr ""
+
+#: includes/submenu_page_import_export.php:449
+msgid "Select the portfolios you would like to import."
+msgstr ""
+
+#: includes/submenu_page_import_export.php:452
+msgid "Replace Existing Items?"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:454
+msgid ""
+"The existing items with same ids or slugs will be replaced with the imported "
+"ones if set, else a new copy will be created."
+msgstr ""
+
+#: includes/submenu_page_import_export.php:546
+msgid "Export Data"
+msgstr ""
+
+#: includes/submenu_page_import_export.php:550
+msgid ""
+"Copy the content of the textarea below and save into file on your hard drive."
+msgstr ""
+
+#: includes/vc/class_vc_extend.php:59
+msgid "No portfolio(s) found!"
+msgstr ""
+
+#: includes/vc/class_vc_extend.php:66
+msgid "Responsive portfolios & galleries"
+msgstr ""
+
+#: includes/vc/class_vc_extend.php:75
+msgid "Portfolio name"
+msgstr ""
+
+#: includes/vc/class_vc_extend.php:78
+msgid "Select portfolio"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Portfolio manager plugin. This plugin allows you to manage, edit, and create "
+"new portfolios, showcases or teasers."
+msgstr ""

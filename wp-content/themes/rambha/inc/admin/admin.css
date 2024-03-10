@@ -1,0 +1,16 @@
+.notice {
+	position: relative;
+}
+
+.button-primary.button.upgrade{
+	background-color: #eee;
+	border-color: #eee;
+	color: #000;
+
+}
+
+.button-primary.button.upgrade:hover{
+    border-color: #2271b1;
+    color: #000;
+    opacity: 0.9;
+}

@@ -1,0 +1,161 @@
+@keyframes rambha-spin {
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg); }
+  }
+
+.rambha-wrapper {
+  max-width: 1440px;
+  margin: 40px auto;
+  padding: 40px;
+  background-color: #fff; 
+}
+
+#theme-info-page {
+  font-size: 17px;
+  line-height: 1.7;
+ }
+
+.rambha-wrapper .admin-banner, .compare-table table th, .about-us .our-product {
+  background: linear-gradient(105deg, #000090, #0E6415);
+}
+
+.rambha-wrapper .admin-banner {
+  display: grid;
+  max-width: 100%;
+  justify-content: center;
+  padding: 40px;
+  margin: 0 0 30px 0; 
+}
+
+.banner-left {
+    text-align: center;
+}
+
+.rambha-buttons {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.rambha-wrapper .admin-banner h2 {
+  margin: 0;
+  color: #fff;
+  font-size: 3rem;
+  line-height: 1.2; 
+}
+.rambha-wrapper .admin-banner p {
+  color: #fff; 
+}
+
+.rambha-admin-button {
+  padding: 10px 10px;
+  text-decoration: inherit;
+  background: #000090;
+  color: #fff;
+  font-size: 16px;
+  line-height: 2.0;
+  display: flex;
+  gap: 10px;
+}
+
+.rambha-admin-button.upgrade-to-pro {
+  background: #d63638;
+}
+
+.rambha-admin-button.demo {
+  background: #0A5F15;
+}
+
+.rambha-admin-button.documentation {
+  background: #02649C;
+
+}
+
+.rambha-admin-button.documentation, .rambha-admin-button.demo, .rambha-admin-button.upgrade-to-pro {
+  margin-left: 5px;
+  color: #fff;
+}
+
+.rambha-admin-button:hover, .rambha-admin-button:focus {
+  opacity: 0.7;
+  color: #fff;
+}
+
+.compare-table table th {
+  border-bottom: 1px solid #000090;
+  padding: 15px;
+  color: #fff; 
+}
+.compare-table table tr:nth-child(2n) td {
+  background: #E5E5E5; 
+}
+.compare-table table {
+  border: 1px solid #f5f5f5;
+  border-spacing: 0;
+  width: 100%;
+}
+.compare-table table td {
+  padding: 1em;
+  text-align: center;
+  border: 1px solid #f5f5f5;
+}
+.compare-table table td span {
+  font-size: 30px;
+  color: #d63638;
+}
+.compare-table table td span.dashicons.dashicons-yes {
+  text-align: center;
+  color: #0E6415; 
+}
+
+.about-us {
+  display: grid;
+  grid-gap: 30px;
+  margin: 30px 0;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  
+}
+.about-us .our-product {
+  padding: 30px;
+  color: #fff;
+  text-align: center; 
+}
+.about-us .our-product h3 {
+  font-size: 2rem;
+  line-height: 1.5;
+  margin: 0 0 15px 0;
+  color: #fff; 
+}
+.about-us .our-product .rambha-admin-button {
+  margin-top: 5px;
+  display: inline-block; 
+}
+.about-us .our-product p,
+.about-us .our-product h4 {
+  font-size: 17px;
+  line-height: 1.7;
+  margin: 0 0 15px; 
+}
+
+.theme-canary-demo-import {
+  background-color: #c0d6e4;
+  text-align: center;
+  padding: 40px;
+}
+.theme-canary-demo-import a.rambha-admin-button {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.theme-canary-demo-import a.rambha-admin-button span {
+  margin: 7px 7px 0;
+}
+.dashicons-update {
+  animation: rambha-spin 2s linear infinite;
+}
+.theme-canary-demo-import small {
+  display: block;
+  font-style: italic; 
+}
